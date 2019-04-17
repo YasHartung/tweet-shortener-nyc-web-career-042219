@@ -74,5 +74,5 @@ binding.pry
     tweet = tweet[0..136] + "..."
   end
 
-
+tweet
 end
